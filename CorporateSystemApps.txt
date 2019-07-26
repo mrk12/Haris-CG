@@ -1,0 +1,8 @@
+Corporate Systems Apps (Consolidated Operations Group) supports production applications for multiple corporate verticals including CEP, Events, Head Quarters and Insurance. Corporate Systems Apps Testing Community is centralized database where all applications manual and automation testing process is maintained Corporate Systems Apps testing process includes the testing of Standard test cases or change specific test cases for both manual and automation. 
+
+This site is intended to provide GE businesses with the necessary information and tools to support their insurance needs.
+Corporate Insurance is responsible for designing and administering global insurance programs, which protect all eligible GE businesses from loss resulting from damage to GE property and claims for damages to third parties
+
+A graphical online reporting tool to handle Program performance, Carrier performance, Cost of risk etc. The need to have a centralized repository for capturing business allocations for tracking purposes and also to assist the risk managers in developing long-term relationships with insurance carriers by providing a look at their profitability over time, as well as performance of the programs over time.
+The need to have a mechanism to track the erosion of aggregates. Aggregates are maximum specified dollar contributions that, when exceeded, may result in structural changes to the associated program(s), usually exposing GE and/or the remaining carriers within that program to additional liability. To provide GE's business units with the necessary transparency to drill down into their insurance details. Thus providing an understanding of what is driving their allocated insurance costs, and what actions they can take to reduce them.
+
